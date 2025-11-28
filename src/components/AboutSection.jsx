@@ -20,7 +20,7 @@ export const AboutSection = () => {
             </p>
 
             <p className="text-muted-foreground text-left">
-             Previously worked at Walstar Technologies Pvt. Ltd., Bracadly Services, and White Warbler Communication, where I led frontend tasks, UX improvements, and real-time data integrations for high-performing brands.
+             Previously worked at Studio1hub and White Warbler Communication, where I led frontend tasks, UX improvements, and real-time data integrations for high-performing brands.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-start">
